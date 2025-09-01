@@ -4,12 +4,12 @@
 #include "AdafruitIO_WiFi.h"
 
 // Configuração do WiFi
-#define WIFI_SSID "iPhone de Hyago"
-#define WIFI_PASS "301274121"
+#define WIFI_SSID "fogazzaaaa"
+#define WIFI_PASS "fogazzaaaa"
 
 // Autenticação AdafuritIO
 #define IO_USERNAME  "Hyago"
-#define IO_KEY       "aio_pGsW54EtEYbk7F0RHBqbn6CNZOgC"
+#define IO_KEY       "aio_rYgO747Cr7u9wFxWojDhYlaAK6kb"
 
 AdafruitIO_WiFi io(IO_USERNAME, IO_KEY, WIFI_SSID, WIFI_PASS);
 
